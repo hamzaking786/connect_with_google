@@ -1,0 +1,24 @@
+{
+  "name": "connect_with_google",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "concurrently npm:dev:client npm:dev:server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hamzaking786/connect_with_google.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hamzaking786/connect_with_google/issues"
+  },
+  "homepage": "https://github.com/hamzaking786/connect_with_google#readme",
+  "devDependencies": {
+    "concurrently": "^7.0.0"
+  }
+}
