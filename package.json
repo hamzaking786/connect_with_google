@@ -25,6 +25,7 @@
   },
   "homepage": "https://github.com/hamzaking786/connect_with_google#readme",
   "devDependencies": {
-    "concurrently": "^7.0.0"
+    "concurrently": "^7.0.0",
+    "prettier": "^2.5.1"
   }
 }
